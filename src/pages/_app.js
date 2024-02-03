@@ -1,7 +1,7 @@
 
 import { DndProvider } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
-import Layout from '../components/Layout'; // Adjust the path accordingly
+import Layout from '../components/Layout'; 
 
 function MyApp({ Component, pageProps }) {
   return (
