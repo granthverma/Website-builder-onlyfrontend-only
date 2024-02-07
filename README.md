@@ -18,5 +18,3 @@ Next.js: The project is built using Next.js, a React framework for building serv
 
 ![Alt text](website-builder.png)
 
-
-it  done  now 
